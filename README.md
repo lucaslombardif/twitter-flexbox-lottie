@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center"> 
-      <img alt="Twitter" src="https://omnistack-six.herokuapp.com/files/85c2143ac8d711a1f51d6aff6caf3c19-twitter.png?sanitize=true" />
+      <img alt="Twitter" src="https://user-images.githubusercontent.com/23706340/72833428-96590000-3c65-11ea-9f74-34afc78d93f0.png?sanitize=true" />
       </h2> 
 
 <h4 align="center">
